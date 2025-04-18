@@ -1,0 +1,45 @@
+﻿  CORSE 11 - OOP - BANK SYSTEM PROJECT - UI.cpp
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(38,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(55,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(86,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(113,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(139,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(153,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(172,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(192,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(197,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(219,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(240,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(261,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(298,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(323,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(352,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(371,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsString.h(496,29): warning C4018: '<': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsUtil.h(64,1): warning C4102: 'defualt': unreferenced label
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsUtil.h(220,31): warning C4018: '<=': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsUtil.h(233,31): warning C4018: '<=': signed/unsigned mismatch
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsUser.h(187,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsUser.h(161): message : see declaration of 'clsUser::stLoginRegisterRecord'
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsInputValidate.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(204,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(168): message : see declaration of 'clsBankClient::stTransferLogRecord'
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(177,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(178,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(179,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(431,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(442,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsAddNewClientScreen.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsUpdateClientScreen.h(28,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsFindClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsTotalBalancesScreen.h(55,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsTransferScreen.h(42,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsTransferScreen.h(47,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI.cpp(11,47): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(388): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsBankClient.h(445): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\clsUser.h(339): warning C4715: 'clsUser::Save': not all control paths return a value
+  CORSE 11 - OOP - BANK SYSTEM PROJECT - UI.vcxproj -> D:\Visuel Studio Problems\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI\Debug\CORSE 11 - OOP - BANK SYSTEM PROJECT - UI.exe
